@@ -2,8 +2,6 @@
 
 React ile geliştirilmiş gerçek zamanlı hava durumu takip uygulaması
 
-![Uygulama Ekran Görüntüsü](./src/assets/screenshot.png)
-
 ## Özellikler ✨
 
 - 🏙️ Şehir ismiyle anlık hava durumu sorgulama
