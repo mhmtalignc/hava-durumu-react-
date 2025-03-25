@@ -33,3 +33,11 @@ Axios
 OpenWeather Map API
 
 ![Uygulama Ekran Görüntüsü](./src/assets/screenshot.png)
+
+## Güncellemeler
+
+### [25.03.2025]
+
+- Harita özelliği eklendi (OpenLayers kullanıldı).
+- Son aranan şehirler haritada gösterilebiliyor.
+- Kullanıcı artık şehirleri harita üzerinde görebilir.
