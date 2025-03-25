@@ -32,8 +32,9 @@ Axios
 
 OpenWeather Map API
 
-![Ekran Görüntüsü](./src/assets/screenshot.png)
-![Ekran Görüntüsü2](./src/assets/ss1.png)
+<!-- ![Ekran Görüntüsü](./src/assets/screenshot.png) -->
+
+![Ekran Görüntüsü](./src/assets/ss1.png)
 
 ## Güncellemeler
 
